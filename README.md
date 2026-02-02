@@ -32,25 +32,47 @@ It allows users to browse products, add them to cart, place orders, and manage t
 ## 📁 Project Structure
 
 vite-project/
+<br/>
 │
+<br/>
 ├── public/
+<br/>
 ├── src/
+<br/>
 │ ├── assets/
+<br/>
 │ ├── Components/
+<br/>
 │ │ ├── CartModal.jsx
+<br/>
 │ │ ├── Loading.jsx
+<br/>
 │ │ ├── Navbar.jsx
+<br/>
 │ │ ├── Order.jsx
+<br/>
 │ │ └── Product.jsx
+<br/>
 │ │
+<br/>
 │ ├── Hooks/
+<br/>
 │ │ └── http.js
+<br/>
 │ │
+<br/>
 │ ├── App.jsx
+<br/>
 │ ├── main.jsx
+<br/>
 │ └── index.css
+<br/>
 │
+<br/>
 ├── db.json
+<br/>
 ├── package.json
+<br/>
 ├── vite.config.js
+<br/>
 └── README.md
